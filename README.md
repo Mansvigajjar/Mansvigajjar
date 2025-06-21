@@ -8,15 +8,9 @@
   <a href="https://www.linkedin.com/in/gajjar-mansvi-707878336/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bs1I4j5iUS4WRdSZMD5BauQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-  <a href="gajjarmansvi@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=gajjarmansvi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mansvigajjar.Mansvigajjar&"  />
 </div>
 
 ###
